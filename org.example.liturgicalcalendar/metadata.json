@@ -1,0 +1,21 @@
+{
+  "KPlugin": {
+    "Id": "org.example.liturgicalcalendar",
+    "Name": "Liturgischer Kalender",
+    "Description": "Offline-Plasmoid für den katholischen liturgischen Kalender mit deutschen Beschreibungen.",
+    "Icon": "view-calendar",
+    "Authors": [
+      {
+        "Name": "Florian"
+      }
+    ],
+    "Category": "Date and Time",
+    "Version": "0.2.0",
+    "License": "MIT"
+  },
+  "KPackageStructure": "Plasma/Applet",
+  "KPackage": {
+    "Type": "Plasma/Applet"
+  },
+  "X-Plasma-API-Minimum-Version": "6.0"
+}
